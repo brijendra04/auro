@@ -27,7 +27,7 @@ To install and run this project locally, follow these steps:
 
     ```sh
     git clone https://github.com/brijendra04/auro.git
-    cd community-engagement-platform
+    cd auro
     ```
 
 2. Install the dependencies:
